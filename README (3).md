@@ -1,6 +1,6 @@
 # Micron Technology (MU) — Three-Statement Model and DCF
 
-A fully linked three-statement financial model and discounted cash flow (DCF) valuation of Micron Technology, built in Excel from SEC filings and management guidance. Valuation as of **September 14, 2026**.
+A fully linked three statement financial model and discounted cash flow (DCF) valuation of Micron Technology. Built in Excel from SEC filings and management guidance.
 
 **By Julian Lugo**
 
@@ -18,7 +18,7 @@ A fully linked three-statement financial model and discounted cash flow (DCF) va
 
 Values use an industry bottom-up beta (1.51). Using Micron's 5-year regression beta (2.22) instead gives $500 / $715 / $211.
 
-**Investment view:** At $924, the market is pricing in roughly the bull case. The base case assumes memory pricing eases as new industry capacity arrives in 2027–28, bringing margins back toward Micron's prior-cycle peak. About $100B of committed revenue under Micron's strategic customer agreements should make the next downturn milder than past cycles. The question is how long AI driven margins last.
+**Investment view:** At $924, the market is pricing in mostly the bull case. The base case assumes memory pricing eases as new industry capacity arrives in 2027–28, bringing margins back toward Micron's prior cycle peak. About $100B of committed revenue under Micron's strategic customer agreements should make the next downturn milder than past cycles. The question is how long AI driven margins last?
 
 ## What's in the model
 
@@ -59,7 +59,7 @@ Values use an industry bottom-up beta (1.51). Using Micron's 5-year regression b
 - Market data: Yahoo Finance / Nasdaq, FRED (DGS10)
 - Aswath Damodaran (NYU Stern): implied equity risk premium and industry betas
 
-Full source links are on the Sources tab.
+Full sources linked in the Sources tab.
 
 ## Notes
 
